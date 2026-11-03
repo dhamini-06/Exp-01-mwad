@@ -482,15 +482,15 @@ contact.html
 
 ## OUTPUT
 
-![alt text](1.png)
+![alt text](website/1.png)
 
-![alt text](2.png) 
+![alt text](website/2.png)
 
-![alt text](3.png)
+![alt text](website/3.png)
 
-![alt text](4.png) 
+![alt text](website/4.png)
 
-![alt text](5.png)
+![alt text](website/5.png)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
